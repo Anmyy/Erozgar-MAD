@@ -6,7 +6,7 @@ import {async} from "@firebase/util";
 
 
 const Login = (props) => {
-    
+    alert('Github is working')
     const [email, setEmail]= useState('')
     const [password, setPassword]= useState('')
 
